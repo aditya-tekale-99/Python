@@ -1,4 +1,4 @@
-Simple playable tic tac toe game using Python.
+# Simple playable tic tac toe game using Python.
 
 How to play:
 1) Download python on pc
