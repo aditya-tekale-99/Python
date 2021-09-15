@@ -1,4 +1,4 @@
-Codecademy: Python Stack Lesson - Towers of Hanoi Solution
+# Towers of Hanoi Solution
 
 How to play:
 1) Download python on pc
