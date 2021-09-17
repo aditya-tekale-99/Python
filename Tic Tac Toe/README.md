@@ -1,8 +1,4 @@
-# Simple playable tic tac toe game using Python.
+# tic tac toe
 
-How to play:
-1) Download python on pc
-2) download this repo and save it in a location on your pc
-3) once all is set and python and installed, open terminal in the tictactoe folder by holding down shift on windows and selecting powershell
-4) once the terminal opens, type "python tictactoe.py" and hit enter
-5) the game starts and have fun.
+A simple tic tac toe game that can be played on the terminal by two users.  
+Made use of functions and conditions in Python to make this game playable.
