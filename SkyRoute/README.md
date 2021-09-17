@@ -9,7 +9,7 @@
 ## Description
 #### This project uses the concepts of BFS and DFS Graph search to find the shortest and best route between the starting and final point  
 #### User gets to choose the stations from 26 mentioned stations present in Vancouver  
-#### Once the result is given, user gets to see any other shortest routes (to find the shortest routes, BFS is used).  
+#### User gets to see any other shortest routes (to find the shortest routes, BFS is used) until the user chooses 'n' when promted to exit the program.  
 
 ## Extras
 #### Extra Feature: Added a feature to choose another shortest route if a current station is under construction.
