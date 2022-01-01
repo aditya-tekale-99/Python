@@ -17,3 +17,6 @@ A siple tictactoe playable game implemented using functions and conditions in Py
 
 ## [Tower of Hanoi](https://github.com/aditya-tekale-99/Python/tree/main/Tower%20of%20Hanoi)
 Famous tower of hanoi puzzel implemented in python using functions and while loops
+
+## [USCC](https://github.com/aditya-tekale-99/Python/blob/main/USCC/calculator.py)
+A calculator that Reads and splits up incoming data, Store a binary number to a register, Access what is stored in the register, Allocate some registers for a ‘history’ of our calculations, Store/Load from the history when needed
