@@ -23,3 +23,6 @@ Famous tower of hanoi puzzel implemented in python using functions and while loo
 
 ## [USCC](https://github.com/aditya-tekale-99/Python/blob/main/USCC/calculator.py)
 A calculator that Reads and splits up incoming data, Store a binary number to a register, Access what is stored in the register, Allocate some registers for a ‘history’ of our calculations, Store/Load from the history when needed
+
+# [Portfolio Project](https://github.com/aditya-tekale-99/Python/blob/main/Portfolio-Project-CPU-Simulator/main.py)
+CPU simulator in Python. 
