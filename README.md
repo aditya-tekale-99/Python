@@ -1,5 +1,8 @@
 # Python
 
+## [Adder Circuit](https://github.com/aditya-tekale-99/Python/blob/main/Adder%20Circuit/adder_circuit.py)
+Adder circuit focusing on one part of ALU. Has different logical gates code like, NAND, NOT, AND, OR, XOR.  
+
 ## [Adventure](https://github.com/aditya-tekale-99/Python/tree/main/Adventure)
 A wilderness escape game where based on the user choices, the character either escapes the wildneress or remains lost. Used tree data structure to keep track of different paths a user may choose.
 
